@@ -1,6 +1,6 @@
 package org.nowpat.parser;
 
-import org.nowpat.entities.Item;
+import org.nowpat.entity.Item;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;

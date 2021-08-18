@@ -1,6 +1,6 @@
 package org.nowpat;
 
-import org.nowpat.entities.Item;
+import org.nowpat.entity.Item;
 import org.nowpat.parser.ItemParser;
 import org.nowpat.printer.ItemPrinter;
 

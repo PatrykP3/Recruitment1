@@ -1,4 +1,4 @@
-package org.nowpat.entities;
+package org.nowpat.entity;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;

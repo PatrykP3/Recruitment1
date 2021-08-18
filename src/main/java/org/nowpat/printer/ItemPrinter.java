@@ -1,7 +1,7 @@
 package org.nowpat.printer;
 
 import lombok.extern.slf4j.Slf4j;
-import org.nowpat.entities.Item;
+import org.nowpat.entity.Item;
 
 import java.time.LocalDate;
 
